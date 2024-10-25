@@ -1,20 +1,6 @@
 {
   "user-list": [
     {
-      "fullName": "Thelma Langworth",
-      "company": "Leuschke, Harris and Kuhlman",
-      "role": "Backend Developer",
-      "isActive": false,
-      "id": "7"
-    },
-    {
-      "fullName": "Kristen Wunsch",
-      "company": "Gutmann - Kassulke",
-      "role": "Full Stack Designer",
-      "isActive": true,
-      "id": "8"
-    },
-    {
       "id": "10",
       "fullName": "Brian Jacobs",
       "company": "Howe - Anderson",
@@ -155,6 +141,13 @@
       "company": "Lehner - Feeney",
       "role": "Organized",
       "isActive": false
+    },
+    {
+      "fullName": "Kristen Wunsch",
+      "company": "Spencer, Raynor and Langosh",
+      "role": "React Native Developer",
+      "isActive": false,
+      "id": "VOoT8Sx"
     }
   ],
   "company-list": [
